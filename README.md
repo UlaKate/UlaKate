@@ -1,16 +1,14 @@
-## Hi there 👋
+# Екатерина
 
-<!--
-**UlaKate/UlaKate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Добро пожаловать и привет! 🎉
 
-Here are some ideas to get you started:
+Меня зовут Екатерина. я - инженер по тестированию программного обеспечения. 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📍 Обо мне
+
+- 🏠 **Местоположение:** Москва, Russia
+- 💼 **Специализация:** QA-инженер (ручное и автоматизированное тестирование)
+- 🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU
+- 📫 **Контакты:** [Telegram](https://t.me/your_username) · [Email](mailto:your_email@mail.com)

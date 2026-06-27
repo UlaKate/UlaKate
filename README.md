@@ -3,7 +3,7 @@
 
 
 
-##About Me
+About Me
 
 
 - 🏠 **Местоположение:** Москва, Russia
@@ -16,27 +16,27 @@
   
 
 Language
----
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 Mobile Testing
----
+
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 Automation Frameworks
----
+
 
 ![Selenide](https://img.shields.io/badge/Selenide-2C4F7C?style=for-the-badge&logo=selenium&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 Tools
----
+
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,7 +47,7 @@ Tools
 
 
 My projects
----
+
 QA GURU (Test Automation course on JAVA, read more) 
 
 | Project | Description | Stack |
@@ -56,7 +56,7 @@ QA GURU (Test Automation course on JAVA, read more)
 
 
 📫 Connect with Me
----
+
 
 [Telegram](https://t.me/your_username) 
 [Email](mailto:happo-en@yandex.ru)

@@ -1,6 +1,6 @@
-<p align="center"><span style="font-size: 2em;"><b>Hi there, I'm Ekaterina 😊</b></span></p>
+<p align="center"><span style="font-size: 16em;"><b>Hi there, I'm Ekaterina 😊</b></span></p>
 
-<p align="center"><span style="font-size: 1.5em;"><b>QA Engineer</b></span></p>
+<p align="center"><span style="font-size: 8em;"><b>QA Engineer</b></span></p>
 
 ## About Me
 - 🏠 **Местоположение:** Москва, Russia

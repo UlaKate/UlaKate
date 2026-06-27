@@ -12,7 +12,7 @@
 
 - Currently developing my automation skills with stack: **Selenide + JUnit + Java**.
 
-### 💻 Languages
+ 💻 Languages
 ---
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

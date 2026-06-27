@@ -6,11 +6,10 @@
 ## About Me
 
 
-- 🏠 **Местоположение:** Москва, Russia
-- 💼 **Специализация:** QA-инженер (ручное и автоматизированное тестирование)
-- 🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU
-
-- Currently developing my automation skills with stack: **Selenide + JUnit + Java**.
+🏠 **Местоположение:** Москва, Russia
+💼 **Специализация:** QA-инженер (ручное и автоматизированное тестирование)
+🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU
+Currently developing my automation skills with stack: **Selenide + JUnit + Java**.
 
 
 

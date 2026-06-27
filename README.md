@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Ekaterina👋</h1>
 
-<h2 align="center">QA Engineer 👩‍💻</h2>
+<h2 align="center">QA Engineer</h2>
 
 
 ### 📍 Обо мне
@@ -11,3 +11,69 @@
 - 💼 **Специализация:** QA-инженер (ручное и автоматизированное тестирование)
 - 🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU
 - 📫 **Контакты:** [Telegram](https://t.me/your_username) · [Email](mailto:happo-en@yandex.ru)
+
+
+<p align="center">
+  <b>QA Engineer</b> | <b>Mobile & API Testing</b> | <b>6+ years of experience</b>
+</p>
+
+---
+
+## 👋 About Me
+
+- Experienced and results-oriented **QA Engineer**, specializing in manual **mobile (iOS + Android)** and **API testing** with over **6 years of experience**.
+- Currently developing my automation skills with stack: **Selenide + JUnit + Java**.
+- Passionate about quality, test automation, and continuous improvement.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 📱 Mobile Testing
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### ⚙️ Automation Frameworks
+![Selenide](https://img.shields.io/badge/Selenide-2C4F7C?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🛠️ Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Charles](https://img.shields.io/badge/Charles-4A4A4A?style=for-the-badge&logo=charles&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-0C7A6C?style=for-the-badge&logo=allure&logoColor=white)
+
+---
+
+## 📂 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [bb1birds](https://github.com/UlaKate/bb1birds-ui_tests) | Pet-project: Web application automation testing | Java, Selenide, JUnit |
+| ... | ... | ... |
+
+---
+
+## 📈 GitHub Stats
+
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=anna&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@mail.com)
+
+---
+
+> 💡 *"Quality is not an act, it is a habit." — Aristotle* 🎯

@@ -1,11 +1,6 @@
-<h1 align="center">Hi there, I'm Ekaterina👋</h1>
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1>QA Engineer</h1>
-    </summary>
-  </ul>
-</div>
+<h1 align="center" style="border-bottom: none;">Hi there, I'm Ekaterina 👋</h1>
+
+<h2 align="center" style="border-bottom: none;">QA Engineer</h2>
 
 
 About Me

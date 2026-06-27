@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Ekaterina👋</h1>
-<h2 align="center">QA Engineer</h2>
 <div id="toc">
  <ul align="center" style="list-style: none">
  <summary>

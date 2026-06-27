@@ -1,3 +1,6 @@
+<h1 align="center">Hi, I'm Anna! 👋</h1> 
+<h3 align="center">Senior Manual QA Engineer</h1> 
+
 <h1 align="center">Hi there, I'm Ekaterina👋</h1>
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">

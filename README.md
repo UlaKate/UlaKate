@@ -51,6 +51,10 @@ Tools
 ![Charles](https://img.shields.io/badge/Charles-4A4A4A?style=for-the-badge&logo=charles&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-0C7A6C?style=for-the-badge&logo=allure&logoColor=white)
 
+[![Stars](https://img.shields.io/github/stars/UlaKate/bellintegrator_uitests?style=for-the-badge)](https://github.com/UlaKate/bellintegrator_uitests)
+[![Forks](https://img.shields.io/github/forks/UlaKate/bellintegrator_uitests?style=for-the-badge)](https://github.com/UlaKate/bellintegrator_uitests)
+[![Issues](https://img.shields.io/github/issues/UlaKate/bellintegrator_uitests?style=for-the-badge)](https://github.com/UlaKate/bellintegrator_uitests)
+
 
 My projects
 ---

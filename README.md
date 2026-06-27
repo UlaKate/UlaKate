@@ -10,9 +10,6 @@
 - 📫 **Контакты:** [Telegram](https://t.me/your_username) · [Email](mailto:happo-en@yandex.ru)
 
 - Currently developing my automation skills with stack: **Selenide + JUnit + Java**.
-- Passionate about quality, test automation, and continuous improvement.
-
----
 
 ## 🛠️ Tech Stack
 

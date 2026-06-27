@@ -1,6 +1,6 @@
-<p align="center" style="font-size: 32px;"><b>Hi there, I'm Ekaterina 👋</b></p>
+<p align="center" style="font-size: 50px;"><b>Hi there, I'm Ekaterina 👋</b></p>
 
-<p align="center" style="font-size: 24px;"><b>QA Engineer</b></p>
+<p align="center" style="font-size: 50px;"><b>QA Engineer</b></p>
 
 About Me
 ---

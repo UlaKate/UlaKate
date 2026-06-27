@@ -11,4 +11,4 @@
 - 🏠 **Местоположение:** Москва, Russia
 - 💼 **Специализация:** QA-инженер (ручное и автоматизированное тестирование)
 - 🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU
-- 📫 **Контакты:** [Telegram](https://t.me/your_username) · [Email](mailto:your_email@mail.com)
+- 📫 **Контакты:** [Telegram](https://t.me/your_username) · [Email](mailto:your_happo-en@yandex.ru)

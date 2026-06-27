@@ -1,9 +1,8 @@
-<p align="center"><b>Hi there, I'm Ekaterina 😊</b></p>
+<p align="center"><span style="font-size: 2em;"><b>Hi there, I'm Ekaterina 😊</b></span></p>
 
-<p align="center"><b>QA Engineer</b></p>
+<p align="center"><span style="font-size: 1.5em;"><b>QA Engineer</b></span></p>
 
 ## About Me
-
 - 🏠 **Местоположение:** Москва, Russia
 - 💼 **Специализация:** QA-инженер (ручное и автоматизированное тестирование)
 - 🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU

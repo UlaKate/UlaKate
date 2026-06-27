@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ekaterina👋</h1>
 
-**QA Engineer**
+<h1 align="center">QA Engineer</h1>
 
 
 About Me

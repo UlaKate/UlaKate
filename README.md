@@ -63,11 +63,6 @@ QA GURU (Test Automation course on JAVA)
 
 
 
----
-
-### 📚 QA GURU Course
-[Test Automation course on Java](https://www.example.com)
-
 
 📫 Connect with Me
 ---

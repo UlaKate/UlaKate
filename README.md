@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Ekaterina👋</h1>
 
-Я - инженер по тестированию программного обеспечения. 👩‍💻
+QA Engineer 👩‍💻
 
 
 ### 📍 Обо мне

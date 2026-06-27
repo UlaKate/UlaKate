@@ -10,17 +10,20 @@
 - 🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU
 
 - Currently developing my automation skills with stack: **Selenide + JUnit + Java**.
+  
 
- 💻 Languages
+ 💻 Language
 ---
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 📱 Mobile Testing
 ---
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 ⚙️ Automation Frameworks
 ---
@@ -39,7 +42,8 @@
 ![Charles](https://img.shields.io/badge/Charles-4A4A4A?style=for-the-badge&logo=charles&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-0C7A6C?style=for-the-badge&logo=allure&logoColor=white)
 
-📂 Projects
+
+📂 My projects
 ---
 QA GURU (Test Automation course on JAVA, read more) 
 

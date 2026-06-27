@@ -4,6 +4,9 @@
 
 <h2 align="center">QA Engineer</h2>
 
+---
+
+## 👋 About Me
 
 ### 📍 Обо мне
 
@@ -12,12 +15,6 @@
 - 🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU
 - 📫 **Контакты:** [Telegram](https://t.me/your_username) · [Email](mailto:happo-en@yandex.ru)
 
-
----
-
-## 👋 About Me
-
-- Experienced and results-oriented **QA Engineer**, specializing in manual **mobile (iOS + Android)** and **API testing** with over **6 years of experience**.
 - Currently developing my automation skills with stack: **Selenide + JUnit + Java**.
 - Passionate about quality, test automation, and continuous improvement.
 

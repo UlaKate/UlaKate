@@ -1,6 +1,10 @@
-<p align="center"><big><big><b>Hi there, I'm Ekaterina 😊</b></big></big></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Hi%20there%2C%20I'm%20Ekaterina%20%F0%9F%98%8A-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-<p align="center"><big><b>QA Engineer</b></big></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-QA%20Engineer-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 
 About Me

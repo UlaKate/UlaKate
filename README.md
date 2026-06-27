@@ -41,6 +41,7 @@
 
 📂 Projects
 ---
+QA GURU (Test Automation course on JAVA, read more) 
 
 | Project | Description | Stack |
 |---|---|---|

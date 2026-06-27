@@ -40,7 +40,7 @@ My projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UlaKate&repo=bb1birds-ui_tests)](https://github.com/UlaKate/bb1birds-ui_tests)
 
-
+[![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=UlaKate&layout=compact)](https://github.com/UlaKate)
 
 
 📫 Connect with Me

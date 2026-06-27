@@ -8,7 +8,6 @@
 - 🏠 **Местоположение:** Москва, Russia
 - 💼 **Специализация:** QA-инженер (ручное и автоматизированное тестирование)
 - 🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU
-- 📫 **Контакты:** [Telegram](https://t.me/your_username) · [Email](mailto:happo-en@yandex.ru)
 
 - Currently developing my automation skills with stack: **Selenide + JUnit + Java**.
 
@@ -51,6 +50,6 @@
 📫 Connect with Me
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[Telegram](https://t.me/your_username) 
 [Email](mailto:happo-en@yandex.ru)
 

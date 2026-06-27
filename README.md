@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there, I'm Ekateruna👋</h1>
+<h1 align="center">Hi there, I'm Ekaterina👋</h1>
 
 Меня зовут Екатерина. я - инженер по тестированию программного обеспечения. 👩‍💻
 

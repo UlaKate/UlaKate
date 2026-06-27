@@ -38,8 +38,9 @@ My projects
 ---
 **QA GURU** (Test Automation course on JAVA)  
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UlaKate&repo=bb1birds-ui_tests)](https://github.com/UlaKate/bb1birds-ui_tests)
 
-[![bb1birds-ui_tests](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UlaKate&repo=bb1birds-ui_tests)](https://github.com/UlaKate/bb1birds-ui_tests)
+
 
 
 📫 Connect with Me

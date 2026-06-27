@@ -38,9 +38,8 @@ My projects
 ---
 **QA GURU** (Test Automation course on JAVA)  
 
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anaSense&repo=bellintegrator_uitests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/anaSense/bellintegrator_uitests)
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anaSense&repo=respublica-apitests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/anaSense/respublica-apitests)
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anaSense&repo=wikipedia-mobiletests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/anaSense/wikipedia-mobiletests)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anaSense&repo=bellintegrator_uitests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/UlaKate/bb1birds-api_tests)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anaSense&repo=respublica-apitests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/UlaKate/bb1birds-ui_tests)
 
 📫 Connect with Me
 ---

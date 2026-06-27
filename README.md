@@ -17,7 +17,7 @@ Language
 ---
 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
+<a href="https://www.w3schools.com/java/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/> </a> 
 
 
 Mobile Testing

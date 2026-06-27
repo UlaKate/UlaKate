@@ -42,6 +42,8 @@ My projects
 
 [![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=UlaKate&layout=compact)](https://github.com/UlaKate)
 
+[![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=UlaKate&layout=compact)](https://github.com/UlaKate)
+
 
 📫 Connect with Me
 ---

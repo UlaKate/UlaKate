@@ -1,9 +1,11 @@
 <h1 align="center">Hi there, I'm Ekaterina👋</h1>
 <h2 align="center">QA Engineer</h2>
+---
 
 
 
 About Me
+---
 
 
 - 🏠 **Местоположение:** Москва, Russia
@@ -15,13 +17,15 @@ About Me
 
   
 
-###Language
+Language
+---
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 Mobile Testing
+---
 
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -29,6 +33,7 @@ Mobile Testing
 
 
 Automation Frameworks
+---
 
 
 ![Selenide](https://img.shields.io/badge/Selenide-2C4F7C?style=for-the-badge&logo=selenium&logoColor=white)
@@ -36,6 +41,7 @@ Automation Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 Tools
+---
 
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -47,6 +53,7 @@ Tools
 
 
 My projects
+---
 
 QA GURU (Test Automation course on JAVA, read more) 
 
@@ -56,6 +63,7 @@ QA GURU (Test Automation course on JAVA, read more)
 
 
 📫 Connect with Me
+---
 
 
 [Telegram](https://t.me/your_username) 

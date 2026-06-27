@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Ekaterina👋</h1>
-##<h2 align="center">QA Engineer</h2>##
+###
+<h2 align="center">QA Engineer</h2>
 
 
 

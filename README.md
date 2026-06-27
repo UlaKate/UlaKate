@@ -2,7 +2,7 @@
 
 <h2 align="center">QA Engineer</h2>
 
-👋 About Me
+About Me
 ---
 
 - 🏠 **Местоположение:** Москва, Russia

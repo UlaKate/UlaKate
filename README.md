@@ -1,11 +1,14 @@
-<h1 align="center" style="border-bottom: none;">Hi there, I'm Ekaterina 👋</h1>
+<p align="center"><b>Hi there, I'm Ekaterina 😊</b></p>
 
-<h2 align="center" style="border-bottom: none;">QA Engineer</h2>
+<p align="center"><b>QA Engineer</b></p>
 
+## About Me
 
-About Me
----
+- 🏠 **Местоположение:** Москва, Russia
+- 💼 **Специализация:** QA-инженер (ручное и автоматизированное тестирование)
+- 🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU
 
+- Currently developing my automation skills with stack: **Selenide + JUnit + Java**.
 
 - 🏠 **Местоположение:** Москва, Russia
 - 💼 **Специализация:** QA-инженер (ручное и автоматизированное тестирование)

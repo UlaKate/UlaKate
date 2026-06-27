@@ -13,10 +13,6 @@
 - 📫 **Контакты:** [Telegram](https://t.me/your_username) · [Email](mailto:happo-en@yandex.ru)
 
 
-<p align="center">
-  <b>QA Engineer</b> | <b>Mobile & API Testing</b> | <b>6+ years of experience</b>
-</p>
-
 ---
 
 ## 👋 About Me

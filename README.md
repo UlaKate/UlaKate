@@ -40,7 +40,7 @@ My projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UlaKate&repo=bb1birds-ui_tests&show_owner=true&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD&description_lines_count=1)](https://github.com/UlaKate/bb1birds-ui_tests)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlaKate)](https://github.com/UlaKate/bb1birds-ui_test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=UlaKate)](https://github.com/UlaKate/bb1birds-ui_test)
 
 
 📫 Connect with Me

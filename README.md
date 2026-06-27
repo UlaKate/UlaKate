@@ -55,20 +55,13 @@ Tools
 My projects
 ---
 
-QA GURU (Test Automation course on JAVA, read more) 
+QA GURU (Test Automation course on JAVA) 
 
 | Project | Description | Stack |
 |---|---|---|
 | [bb1birds](https://github.com/UlaKate/bb1birds-ui_tests) | Pet-project: Web application automation testing | Java, Selenide, JUnit |
 
 
-## 🚀 My Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [bellintegrator_uitests](https://github.com/your-link) | UI tests | Java |
-| [republlica-apitests](https://github.com/your-link) | API tests | Java |
-| [wikipedia-mobiletests](https://github.com/your-link) | Mobile tests | Java |
 
 ---
 

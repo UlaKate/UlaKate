@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Ekaterina👋</h1>
-
 <h1 align="center">QA Engineer</h1>
 
 

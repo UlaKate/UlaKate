@@ -39,13 +39,12 @@
 ---
 
 ## 📂 Projects
+---
 
 | Project | Description | Stack |
 |---|---|---|
 | [bb1birds](https://github.com/UlaKate/bb1birds-ui_tests) | Pet-project: Web application automation testing | Java, Selenide, JUnit |
-| ... | ... | ... |
 
----
 
 ## 📈 GitHub Stats
 

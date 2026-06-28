@@ -3,12 +3,10 @@
 
 About Me
 ---
-**5 лет** в ручном тестировании · Сейчас осваиваю **автоматизацию** на Java. Сейчас я активно развиваюсь в **автоматизации тестирования** на стеке:
+QA-инженер с **5-летним опытом** ручного тестирования веб-приложений. Работала с фронтендом и бэкендом, тестировала API, участвовала в полном цикле разработки.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Selenide](https://img.shields.io/badge/Selenide-2C4F7C?style=flat-square&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+Сейчас активно перехожу в **автоматизацию** на стеке **Java + Selenide + JUnit**. Уверена, что комбинация ручного опыта и автоматизации делает тестирование качественнее и эффективнее.
+
 
 | Учебное заведение | Специализация |
 |---|---|

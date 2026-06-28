@@ -5,8 +5,6 @@ About Me
 ---
 **5 лет** в ручном тестировании · Сейчас осваиваю **автоматизацию** на Java.
 
-📍 Москва, Russia 
-
 Сейчас я активно развиваюсь в **автоматизации тестирования** на стеке:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -15,6 +13,7 @@ About Me
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
 - 🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU
+- 📍 Москва, Russia 
 
 Мои инструменты и технологии:
 ---

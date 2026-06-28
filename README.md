@@ -11,7 +11,7 @@ About Me
 ---
 <p align="center">
 <img width="7%" title="Java" src="icons1/Java.svg">
-<img width="7%" title="IntelliJ IDEA" src="icons1/IntelliJ_IDEA.svg">
+<img width="7%" title="IntelliJ_IDEA" src="icons1/IntelliJ_IDEA.svg">
 <img width="7%" title="Gradle" src="icons1/Gradle.svg">
 <img width="7%" title="JUnit5" src="icons1/JUnit5.svg">
 <img width="7%" title="Selenide" src="icons1/Selenide.svg">

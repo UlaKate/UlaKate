@@ -15,7 +15,7 @@ About Me
 <img width="7%" title="Gradle" src="icons1/Gradle.svg">
 <img width="7%" title="JUnit5" src="icons1/JUnit5.svg">
 <img width="7%" title="Selenide" src="icons1/Selenide.svg">
-<img width="7%" title="Selenium" src="icons1/Selenium.svg">
+<img width="7%" title="Selenoid" src="icons1/Selenoid.svg">
 <img width="7%" title="Jenkins" src="icons1/Jenkins.svg">
 <img width="7%" title="Allure Report" src="icons1/Allure_Report.svg">
 <img width="7%" title="GitHub" src="icons1/GitHub.svg">

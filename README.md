@@ -41,9 +41,7 @@ My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UlaKate&repo=bb1birds-ui_tests&show_owner=true&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD&description_lines_count=1&include_all_commits=true&commits_year=2026&cache_seconds=0)](https://github.com/UlaKate/bb1birds-ui_tests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UlaKate&repo=bb1birds-api_tests&show_owner=true&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD&description_lines_count=1&include_all_commits=true&commits_year=2026&cache_seconds=0)](https://github.com/UlaKate/bb1birds-api_tests)
 
-[![bb1birds-ui_tests](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UlaKate&repo=bb1birds-ui_tests)](https://github.com/UlaKate/bb1birds-ui_tests)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UlaKate&repo=bb1birds-ui_tests)](https://github.com/UlaKate/bb1birds-ui_tests)
 
 📫 Connect with Me
 ---

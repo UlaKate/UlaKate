@@ -5,8 +5,15 @@ About Me
 ---
 **5 лет** в ручном тестировании · Сейчас осваиваю **автоматизацию** на Java.
 
-📍 Москва, Russia  
-- 💼 **Специализация:** QA-инженер (ручное и автоматизированное тестирование)
+📍 Москва, Russia 
+
+Сейчас я активно развиваюсь в **автоматизации тестирования** на стеке:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Selenide](https://img.shields.io/badge/Selenide-2C4F7C?style=flat-square&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
 - 🎓 **Образование:** МГТУ им. Н.Э. Баумана, СПбГУЭФ, QA·GURU
 
 Мои инструменты и технологии:

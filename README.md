@@ -9,19 +9,18 @@ About Me
 
 Мои инструменты и технологии:
 ---
- <p align="center">
-<img width="7%" title="Java" src="Java.svg">
-<img width="7%" title="IntelliJ IDEA" src="Intelij_IDEA.svg">
-<img width="7%" title="Gradle" src="Gradle.svg">
-<img width="7%" title="JUnit5" src="JUnit5.svg">
-<img width="7%" title="Selenide" src="Selenide.svg">
-<img width="7%" title="Selenoid" src="Selenoid.svg"> 
-<img width="7%" title="Jenkins" src="Jenkins.svg">
-<img width="7%" title="Allure Report" src="Allure_Report.svg">
-<img width="7%" title="Allure Test Ops" src="AllureTestOps.svg">
-<img width="7%" title="GitHub" src="GitHub.svg">
-<img width="7%" title="Jira" src="Jira.svg">
-<img width="7%" title="Telegram" src="Telegram.svg">
+<p align="center">
+<img width="7%" title="Java" src="icons1/Java.svg">
+<img width="7%" title="IntelliJ IDEA" src="icons1/IntelliJ_IDEA.svg">
+<img width="7%" title="Gradle" src="icons1/Gradle.svg">
+<img width="7%" title="JUnit5" src="icons1/JUnit5.svg">
+<img width="7%" title="Selenide" src="icons1/Selenide.svg">
+<img width="7%" title="Selenium" src="icons1/Selenium.svg">
+<img width="7%" title="Jenkins" src="icons1/Jenkins.svg">
+<img width="7%" title="Allure Report" src="icons1/Allure_Report.svg">
+<img width="7%" title="GitHub" src="icons1/GitHub.svg">
+<img width="7%" title="Jira" src="icons1/Jira.svg">
+<img width="7%" title="Telegram" src="icons1/Telegram.svg">
 </p>
 
 My projects

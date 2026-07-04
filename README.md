@@ -14,9 +14,6 @@ About Me
 | <img src="icons1/finek2.png" width="80" align="center"> | **Санкт-Петербургский государственный экономический университет** | Финансы и кредит - Банковское дело |
 | <img src="icons1/qaguru.png" width="80" align="center"> | **QA-GURU** | Автоматизация тестирования на Java |
 
-
-- 📍 Москва, Russia 
-
 Мои инструменты и технологии:
 ---
 <p align="center">

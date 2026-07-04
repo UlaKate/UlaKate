@@ -45,5 +45,5 @@ My projects
 📫 Connect with Me
 ---
 [Telegram](https://t.me/your_username) 
-[Email](mailto:happo-en@yandex.ru)
+[Email](happo-en@yandex.ru)
 

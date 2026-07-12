@@ -44,6 +44,14 @@ My projects
 
 [![UlaKate's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlaKate)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🚀 Мои проекты
+
+**[QA GURU (Test Automation course on JAVA)](https://github.com/UlaKate/bb1birds-ui_tests)**  
+Решения для UI-тестирования
+
+**[QA GURU API Tests](https://github.com/UlaKate/bb1birds-api_tests)**  
+Решения для API-тестирования
+
 
 
 📫 Connect with Me

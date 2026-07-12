@@ -33,11 +33,7 @@ About Me 👩‍💻
 My projects 🚀
 ---
 <div align="center">
-  
-# My projects 
-
 **QA GURU** (Test Automation course on JAVA)
-
 </div>
 
 **[bb1birds-ui_tests](https://github.com/UlaKate/bb1birds-ui_tests)**  

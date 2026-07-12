@@ -37,7 +37,12 @@ My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UlaKate&repo=bb1birds-ui_tests&show_owner=true&cache_seconds=0&border_radius=40&theme=ambient_gradient&icon_color=000000)](https://github.com/UlaKate/bb1birds-ui_tests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UlaKate&repo=bb1birds-api_tests&show_owner=true&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD&description_lines_count=1&include_all_commits=true&commits_year=2026&cache_seconds=0&border_radius=40)](https://github.com/UlaKate/bb1birds-api_tests)
 
-[![UlaKate's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlaKate&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=UlaKate&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+[![UlaKate's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlaKate)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -30,11 +30,11 @@ About Me 👩‍💻
 <img width="7%" title="Telegram" src="icons1/Telegram.svg">
 </p>
 
-# My projects 🚀
+My projects 🚀
 
 <div align="center">
 
-**QA GURU** (Test Automation course on JAVA)
+**QA GURU (Test Automation course on JAVA)**
 
 </div>
 

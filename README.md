@@ -32,12 +32,14 @@ About Me 👩‍💻
 
 My projects 🚀
 ---
-**QA GURU** (Test Automation course on JAVA)  
+<div align="center">
+**QA GURU** (Test Automation course on JAVA)
+</div>
 
-**[QA GURU (Test Automation course on JAVA)](https://github.com/UlaKate/bb1birds-ui_tests)**  
+**[bb1birds-ui_tests)](https://github.com/UlaKate/bb1birds-ui_tests)**  
 Automated Web UI Testing with Java
 
-**[QA GURU API Tests](https://github.com/UlaKate/bb1birds-api_tests)**  
+**[bb1birds-api_tests](https://github.com/UlaKate/bb1birds-api_tests)**  
 Automated REST API Testing with Java
 
 <!--

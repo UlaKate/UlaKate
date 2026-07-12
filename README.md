@@ -31,6 +31,7 @@ About Me 👩‍💻
 </p>
 
 My projects 🚀
+---
 
 <div align="center">
 
